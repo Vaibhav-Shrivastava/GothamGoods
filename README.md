@@ -2,8 +2,10 @@
 E-commerce website Gotham Goods store to buy Batman goods DC comic world character
 
 **Discussion on the chosen topic **
-**Introduction: 
-Project Background:**
+
+**Introduction:** 
+
+**Project Background:**
 In the digital age, e-commerce platforms are vital for businesses to reach a global audience and cater to the growing trend of online shopping. With the increasing competition in the online retail space, it is essential to develop a platform that not only provides a seamless shopping experience but also stands out through unique design elements and functionality. "GothamGoods" aims to fulfill this need by creating an e-commerce website that integrates innovative design with practical functionalities.
 
 **Project Description:**
