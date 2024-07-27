@@ -28,9 +28,9 @@ Upon completion, the "GothamGoods" website is expected to:
   •	Offer a scalable solution that can adapt to increasing traffic and product inventory.
 
 
-**Existing Process and Its Limitations 
+**Existing Process and Its Limitations**
 
-Existing Process:**
+**Existing Process:**
 Currently, many e-commerce websites utilize standard templates and platforms like Shopify, WooCommerce, or Magento, which offer pre-built solutions for online shopping. These platforms provide essential functionalities but may lack customization, unique design elements, and advanced features specific to niche markets.
 
 
