@@ -1,26 +1,26 @@
 # GothamGoods
 E-commerce website Gotham Goods store to buy Batman goods DC comic world character
 
-**Discussion on the chosen topic **
+**Discussion on the chosen topic**
 
 **Introduction:** 
 
-**Project Background:**
+**Project Background:** 
 In the digital age, e-commerce platforms are vital for businesses to reach a global audience and cater to the growing trend of online shopping. With the increasing competition in the online retail space, it is essential to develop a platform that not only provides a seamless shopping experience but also stands out through unique design elements and functionality. "GothamGoods" aims to fulfill this need by creating an e-commerce website that integrates innovative design with practical functionalities.
 
-**Project Description:**
+**Project Description:** 
 The "GothamGoods" project involves the development of an e-commerce website featuring a Gotham-inspired theme. The site will offer diverse products, including apparel, accessories, home decor, and collectibles. The project will create a user-friendly interface, implement secure payment and shipping options, and employ effective SEO and marketing strategies.
 
 **Purpose of the Work and Expected Outcome **
 
-**Purpose of the Work:**
+**Purpose of the Work:** 
 The primary purpose of this project is to design, develop, and launch a fully functional e-commerce that provides an exceptional online shopping experience. The project aims to:
   •	Develop a visually appealing and intuitive user interface.
   •	Ensure secure transactions and reliable shipping options.
   •	Implement effective SEO practices to enhance website visibility.
   •	Create a platform that meets the needs of both users and administrators.
 
-**Expected Outcome:**
+**Expected Outcome:** 
 Upon completion, the "GothamGoods" website is expected to:
   •	Deliver a seamless and engaging shopping experience for users.
   •	Provide robust functionalities for product management, payment processing, and order fulfillment.
